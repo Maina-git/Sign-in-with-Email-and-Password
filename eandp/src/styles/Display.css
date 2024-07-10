@@ -1,0 +1,19 @@
+.display {
+  display: flex;
+  flex-direction: column;
+}
+.display .google {
+  display: flex;
+  flex: 100%;
+  justify-content: center;
+  margin: 30px;
+  gap: 30px;
+}
+.display span {
+  font-size: 100px;
+}
+.display h1 {
+  font-size: 35px;
+  font-family: sans-serif;
+  color: rgb(27, 38, 99);
+}/*# sourceMappingURL=Display.css.map */
